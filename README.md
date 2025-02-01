@@ -1,8 +1,9 @@
 <h1 align="center">
   <img src="https://github.com/Mehmetdora/Mehmetdora/blob/main/image.svg" alt="Mehmet Dora" />
 </h1>
-# Hi 👋 I am Mehmet Dora! 
-I am a Computer Engineering student at Cukurova University. I have some projects using some coding languages(Mobile,Backend,Frontend).
+Hi 👋 I am Mehmet Dora! 
+
+I am a Computer Engineering student at Cukurova University. I have some projects using some coding languages.
 
 - 🌐 Visit my [blog website](https://www.blogram.com.tr) to see my blogs and to write your own blogs.
 - ✍️ Follow me on [LinkedIn](https://www.linkedin.com/in/mehmet-dora-699a02226) for more infos about me.
@@ -12,4 +13,4 @@ I am a Computer Engineering student at Cukurova University. I have some projects
   <img src="https://github-readme-stats.vercel.app/api?username=Mehmetdora&show_icons=true&theme=dark" width="400">
   <img src="https://streak-stats.demolab.com/?user=Mehmetdora&theme=dark&hide_border=true" width="400">
 </p>
----
+
