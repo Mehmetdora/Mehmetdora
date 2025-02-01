@@ -8,9 +8,8 @@ I am a Computer Engineering student at Cukurova University. I have some projects
 - ✍️ Follow me on [LinkedIn](https://www.linkedin.com/in/mehmet-dora-699a02226) for more infos about me.
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehmetdora&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mehmetdora&theme=dark&hide_border=true)
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehmetdora&show_icons=true&theme=dark" width="400">
+  <img src="https://streak-stats.demolab.com/?user=Mehmetdora&theme=dark&hide_border=true" width="400">
+</p>
 ---
