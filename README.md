@@ -10,6 +10,6 @@ I am a Computer Engineering student at Cukurova University. I have some projects
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehmetdora&show_icons=true&theme=dark" width="%60">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehmetdora&show_icons=true&theme=highcontrast" width="%70">
 </p>
 
