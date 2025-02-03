@@ -10,7 +10,7 @@ I am a Computer Engineering student at Cukurova University. I have some projects
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehmetdora&show_icons=true&theme=dark" width="300">
-  <img src="https://streak-stats.demolab.com?user=Mehmetdora" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehmetdora&show_icons=true&theme=dark" width="400">
+  <img src="https://streak-stats.demolab.com?user=Mehmetdora" alt="GitHub Streak" width="400/>
 </p>
 
