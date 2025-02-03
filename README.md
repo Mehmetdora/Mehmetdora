@@ -11,7 +11,6 @@ I am a Computer Engineering student at Cukurova University. I have some projects
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mehmetdora&show_icons=true&theme=dark" width="300">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Mehmetdora)](https://git.io/streak-stats)
-  <img src="https://streak-stats.demolab.com/?user=Mehmetdora&theme=merko&hide_border=true" width="300">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mehmetdora" alt="GitHub Streak" /></a>
 </p>
 
