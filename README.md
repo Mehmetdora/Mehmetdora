@@ -1,7 +1,5 @@
-<h1 align="center">
-  <img src="https://github.com/Mehmetdora/Mehmetdora/blob/main/image.svg" alt="Mehmet Dora" />
-</h1>
-Hi 👋 I am Mehmet Dora! 
+
+Hi 👋 I am Mehmet, 
 
 I am a Computer Engineering student at Cukurova University. I have some projects using some coding languages.
 
