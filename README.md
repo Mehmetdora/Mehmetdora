@@ -1,7 +1,7 @@
 
 Hi 👋 I am Mehmet, 
 
-I am a Computer Engineering student at Cukurova University. I have some projects on mobile app devepolment and full-stack web development, I continue to develop some of these projects. At the same time, I do research and develop projects on LLM applications. 
+I am a Computer Engineering student at Cukurova University. I have some projects on mobile app devepolment and full-stack web development, I continue to develop some of these projects. At the same time, I do research and develop projects on Embedded Systems(PIC16F887 and STM32F411RE). 
 
 - 🌐 Visit my [Blogram](https://www.blogram.com.tr) to see my blogs and write your own blogs.
 - ✍️ Follow me on [LinkedIn](https://www.linkedin.com/in/mehmet-dora-699a02226) for more infos about me.
