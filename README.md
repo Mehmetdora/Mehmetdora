@@ -1,5 +1,5 @@
 
-Hi 👋 I am Mehmet, 
+Hi , I am Mehmet
 
 I am a Computer Engineering student at Cukurova University with strong focus on Embedded Systems. I actively develop projects using STM32 and bare-metal programming, working with peripherals, real-time systems, and hardware-software interaction.
 
