@@ -12,7 +12,5 @@ I love working close to the hardware, controlling somethings, optimizing perform
 - My [LinkedIn](https://www.linkedin.com/in/mehmet-dora-699a02226) 
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehmetdora&show_icons=true&theme=highcontrast" width="%70">
-</p>
+
 
